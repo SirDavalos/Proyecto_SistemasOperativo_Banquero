@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\Cpp\\prograC#\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj": {}
+    "C:\\Users\\ferna\\source\\repos\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\Cpp\\prograC#\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj": {
+    "C:\\Users\\ferna\\source\\repos\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\Cpp\\prograC#\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj",
         "projectName": "Proyecto_SistemasOperativo_Banquero",
-        "projectPath": "C:\\Users\\ferna\\Cpp\\prograC#\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj",
+        "projectPath": "C:\\Users\\ferna\\source\\repos\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\Cpp\\prograC#\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\source\\repos\\Proyecto_SistemasOperativo_Banquero\\Proyecto_SistemasOperativo_Banquero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
