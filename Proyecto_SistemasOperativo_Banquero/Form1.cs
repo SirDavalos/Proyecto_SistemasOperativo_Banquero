@@ -8,9 +8,14 @@ namespace Proyecto_SistemasOperativo_Banquero
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            FormIngresoDatos F2 = new FormIngresoDatos();
+            FormDatos F3 = new FormDatos();
             this.Hide();
-            F2.Show();
+            F3.Show();
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
